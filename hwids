@@ -1,5 +1,5 @@
 local WhitelistedHWIDs = {
-    "HWID1",
+    "F754CC80-640E-4378-87EA-2512D0D6E625",
     "HWID2",
     "HWID3",
     -- Add more HWIDs here
