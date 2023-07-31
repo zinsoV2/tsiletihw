@@ -1,3 +1,6 @@
-return {
-""
+local WhitelistedHWIDs = {
+    "HWID1",
+    "HWID2",
+    "HWID3",
+    -- Add more HWIDs here
 }
